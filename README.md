@@ -38,14 +38,14 @@ The Book search engine uses the MERN stack and with a React front end, MongoDB d
 
 
 
-
-  ## Contributing:
-
-  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-  
-  The project is open-source
-
   ## Screenshots
   ![Capture](https://user-images.githubusercontent.com/68020747/103809496-96ddd880-5027-11eb-97a7-e0b54e0cdfce.PNG)![signup](https://user-images.githubusercontent.com/68020747/103809507-9b09f600-5027-11eb-9907-ea1bfbd4055a.PNG)
 ![login](https://user-images.githubusercontent.com/68020747/103809498-98a79c00-5027-11eb-8c5c-f37654f7d0b9.PNG)
+## Questions
 
+  Please don't hesitate to contact me if you have any questions! <br>
+  I can be reached at mugishaclement123@gmail.com.<br>
+  [You can find more of my work on my GitHub page.](https://github.com/Mugishacle)
+  ## Credit 
+  clement Mugisha
+  
