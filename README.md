@@ -27,11 +27,6 @@ The Book search engine uses the MERN stack and with a React front end, MongoDB d
   - MERN Stack
   - MangoDB
 
-  ## Credits:
-
-  Made by Cameron Wills
-
-
   ## License:
 
   For more information about licenses, please visit:
@@ -40,8 +35,7 @@ The Book search engine uses the MERN stack and with a React front end, MongoDB d
 
   ## Screenshots
   ![Capture](https://user-images.githubusercontent.com/68020747/103809496-96ddd880-5027-11eb-97a7-e0b54e0cdfce.PNG)![signup](https://user-images.githubusercontent.com/68020747/103809507-9b09f600-5027-11eb-9907-ea1bfbd4055a.PNG)
-![login](https://user-images.githubusercontent.com/68020747/103809498-98a79c00-5027-11eb-8c5c-f37654f7d0b9.PNG)
-## Questions
+
 
   Please don't hesitate to contact me if you have any questions! <br>
   I can be reached at mugishaclement123@gmail.com.<br>
