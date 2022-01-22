@@ -47,5 +47,5 @@ The Book search engine uses the MERN stack and with a React front end, MongoDB d
   I can be reached at mugishaclement123@gmail.com.<br>
   [You can find more of my work on my GitHub page.](https://github.com/Mugishacle)
   ## Credit 
-  clement Mugisha
+   by clement Mugisha
   
