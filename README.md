@@ -19,7 +19,12 @@ The Book search engine uses the MERN stack and with a React front end, MongoDB d
 
    Make sure you have MongoDB installed on your machine (if you don't, follow the instructions on the MongoDB Website). Clone the repo. Install dependencies with npm i. Run ```npm start``` to run the server. 
 
+## Link
 
+https://github.com/Mugishacle/Challenge21
+https://booksearch-google-challenge-21.herokuapp.com/
+
+Insert gif or link to demo
 
 ## Technologies
   - JavaScript
